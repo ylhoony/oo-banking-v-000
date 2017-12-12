@@ -1,7 +1,6 @@
 class BankAccount
 
 
-  def method_name
-
+  def initialize
   end
 end
